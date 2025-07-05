@@ -1,6 +1,5 @@
 def main():
     time = convert(input("What time is it? "))
-    print(time)
 
     if 8 >= time >= 7:
         print("Breakfast time")

@@ -1,5 +1,4 @@
 from main import square
-import pytest
 
 def test_positive():
     assert square(2) == 4

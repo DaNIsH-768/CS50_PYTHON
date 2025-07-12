@@ -1,8 +1,8 @@
 import random as rd
 
 GUESSED = []
-guesses = 0
 NUMBER = rd.randint(1, 100)
+guesses = 0
 
 while True:
     try:
